@@ -1,12 +1,12 @@
 # software-development
-#SHOPSAVY
-This app allows people to get personalised shopping  assistant and deal finder.
-#Badrinath
-##Personalised Shopping Assistance.
-##Product search and discovery.
-#Pavan
-##Deal Alerts and Notification.
-##Price History and Trends.
-#Deepika
-##Wishlist and Favorites.
+#<b>SHOPSAVY</b><br>
+This app allows people to get personalised shopping  assistant and deal finder.<br>
+#Badrinath<br>
+##Personalised Shopping Assistance.<br>
+##Product search and discovery.<br>
+#Pavan<br>
+##Deal Alerts and Notification.<br>
+##Price History and Trends.<br>
+#Deepika<br>
+##Wishlist and Favorites.<br>
 ##Social Shopping and Sharing.
